@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Panel
+comment1.params=size\ tSize\ mSize
+comment1.target=Panel(int,\ int,\ int)
+comment2.params=g
+comment2.target=void\ paint(java.awt.Graphics)
+comment3.params=x\ y\ g
+comment3.target=void\ drawApple(int,\ int,\ java.awt.Graphics)
+comment4.params=x\ y\ g
+comment4.target=void\ drawSnake(int,\ int,\ java.awt.Graphics)
+numComments=5
